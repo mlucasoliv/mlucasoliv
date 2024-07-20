@@ -1,4 +1,3 @@
 <div align="center">
-<img src="![iluvcats2002 - 1732804169323393526](https://github.com/user-attachments/assets/1122dde9-cc2e-4dc4-909d-191c37b6e694)
-"/>
+<img src="![iluvcats2002 - 1732804169323393526](https://github.com/user-attachments/assets/15b07b1f-78e8-4335-b5e8-9c077de4a01a)"/>
 </div><br>
