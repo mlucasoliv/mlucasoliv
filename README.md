@@ -1,6 +1,5 @@
+![GSH5NGQWAAIt6ix](https://github.com/user-attachments/assets/80b837e8-b090-4305-844f-cfe4bc6e5beb)
 
-### Centralizado
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/8e22caa4-d889-4658-8c93-6effe3ddae69" width="200" />
-</div>
 
+- :mortar_board: Analysis and Systems Development Student
+- :computer: Current studying Java. 💜 
