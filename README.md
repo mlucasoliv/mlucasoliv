@@ -1,22 +1,10 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/80b837e8-b090-4305-844f-cfe4bc6e5beb" width="400"/>
-  </div><br>
+# Welcome 🖖
+**Analysis and Systems Development Student** at UMJ
 
-- :mortar_board: Analysis and Systems Development Student
-- :computer: Current studying Java. ☕ 🧡
+## **About me:**
+* Current studying Java. ☕ 🧡;
+* Studying Logic, DSA and Crypto;
+* Open, for work!
 
-<h3>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Books.png" width="20" height="20" /> Current Learning:
-</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode" />
-  </a>
-</p>
-
-<h3>
-   📫 Contact:
-</h3>
-
-- 📮 mlucasdev@hotmail.com
+# **Contact:**
+* mlucasdev@hotmail.com
