@@ -6,5 +6,5 @@
 * Studying Logic, DSA and Crypto;
 * I'm looking for an internship in Software development!
 
-# **Contact:**
+# **How to reach me:**
 * mlucasdev@hotmail.com
