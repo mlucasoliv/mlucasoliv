@@ -2,7 +2,7 @@
 **Analysis and Systems Development Student**
 
 ## **About me:**
-* Current studying Java. ☕ 🧡;
+* Current studying Python and MySql. ☕ 🧡;
 * Studying Logic, DSA and Crypto;
 * I'm looking for an internship in Software development!
 
