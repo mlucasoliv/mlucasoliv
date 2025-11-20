@@ -6,7 +6,7 @@ analysis and systems development student, and backend developer
 <h3 align="left">my tech stack</h3>
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35" alt="js logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="8" />
