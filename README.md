@@ -6,9 +6,9 @@ analysis and systems development student, and backend developer
 <h3 align="left">my tech stack</h3>
 
 <div align="left">
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg]" height="40" alt="js logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
   <img width="8" />
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg]" height="25" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="25" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="35" alt="postgresql logo"  />
   <img width="8" />
