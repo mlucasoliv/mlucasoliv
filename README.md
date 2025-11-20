@@ -14,7 +14,7 @@ analysis and systems development student, and backend developer
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain-wordmark.svg" height="35" alt="postman logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="35" alt="postman logo"  />
   <img width="8" />
 </div>
 <br>
