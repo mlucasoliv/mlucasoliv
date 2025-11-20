@@ -8,7 +8,7 @@ analysis and systems development student, and backend developer
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="35" alt="postgresql logo"  />
   <img width="8" />
