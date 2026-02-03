@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>analysis and systems development student, and backend developer/ᐠ .   ̫ .マ </h3>
+  <h3>backend developer /ᐠ .   ̫ .マ </h3>
   <h3 align="center">my tech stack</h3>
   <p>node, sql, javascript ☕️ ・ backend engineer 📱・ </p>
   <a href="https://www.linkedin.com/in/mlucasoliv" target="_blank">
