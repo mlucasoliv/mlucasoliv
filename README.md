@@ -2,21 +2,11 @@ analysis and systems development student, and backend developer
 
 <h3 align="left">my tech stack</h3>
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="35" alt="js logo"  />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="35" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="35" alt="postman logo"  />
-  <img width="8" />
-
-<h3 align="left">contact</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:mlucasdev@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF0000&color:FFF)](https://www.linkedin.com/in/mlucasoliv/)
+<div align="center">
+  <h3>autistic software engineer who loves write code and papers /ᐠ .   ̫ .マ </h3>
+  <p>node, sql, javascript ☕️ ・ backend engineer 📱・ </p>
+  <a href="https://www.linkedin.com/in/mlucasoliv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/></a>
+  
 </div>
 <br>
